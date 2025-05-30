@@ -4,4 +4,4 @@ The stupid is an open source python module that is doing stupid stuff. It is cre
 ## Contribution
 We welcome every stupid contribution. If you are stupid, make any stupid contribution. 
 ## Warning ⚠️
-Do not act smart ⚠️
+Do not act smart ⚠️. Never!
